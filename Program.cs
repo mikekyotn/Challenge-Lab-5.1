@@ -2,7 +2,7 @@
 {
     //Given a non-empty array of integers nums, every element appears twice except for one.
     //Find that single one.
-    //Status: WORKS BUT!! is Dictionary what they wanted us to use?
+    //Status: Complete.  Using Dictionary.
     internal class Program
     {
         static void Main(string[] args)
